@@ -43,6 +43,12 @@ This project was created to practice DOM manipulation, event handling, condition
 
 ---
 
+## Live Demo
+
+GitHub Page : 
+
+---
+
 ## Project Structure
 
 ```txt
@@ -52,8 +58,5 @@ counter-pro/
 ├── style.css
 └── script.js
 
-## Live Demo
-
-GitHub Page : 
 
 

@@ -45,7 +45,7 @@ This project was created to practice DOM manipulation, event handling, condition
 
 ## Live Demo
 
-GitHub Page : 
+GitHub Page : https://nomenaharilazarandria.github.io/counter-Projet1-15-05-2026/
 
 ---
 
